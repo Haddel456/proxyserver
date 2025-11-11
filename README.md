@@ -36,7 +36,6 @@ The project contains the following:
 ## Compile & Run
 
 **Compile the code:**
-
 - gcc -o threadpool threadpool.c -lpthread
   
 **Run the program:**
